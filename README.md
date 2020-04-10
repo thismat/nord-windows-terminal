@@ -5,7 +5,7 @@
 
 # Getting Started
 
-This is a port of [Nord](https://www.nordtheme.com/) to Windows Terminal. Visit [Nord Theme](https://www.nordtheme.com/) for more information about the theme. 
+This is an _unofficial_ port of [Nord](https://www.nordtheme.com/) to Windows Terminal. Visit [Nord Theme](https://www.nordtheme.com/) for more information about the theme. 
 
 
 > An arctic, north-bluish color palette.
