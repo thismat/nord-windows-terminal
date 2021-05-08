@@ -14,6 +14,14 @@ This is an _unofficial_ port of [Nord](https://www.nordtheme.com/) to Windows Te
 ## Install
 
 <details>
+<summary>Install with Powershell Script</summary>
+    1. Clone the repository
+    2. Open powershell and run install.ps1
+    3. Restart windows terminal
+    4. Set your colorschemes to Nord
+</details>
+
+<details>
 <summary>Install by cloning the repository</summary>
     1. Clone the repository
     2. Copying the contents of `nord.json` into your Windows Terminal `profile.json` `scheme` section. (There is a trailing comma for quick CTRL+A, CTRL+P).
