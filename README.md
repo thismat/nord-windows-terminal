@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/thismat/nord-windows-terminal" target="_blank"><img src="https://github.com/thismat/nord-windows-terminal/blob/main/screenshot.png?raw=true"/></a></p>
+<p align="center"><a href="https://github.com/thismat/nord-windows-terminal?t=123" target="_blank"><img src="https://github.com/thismat/nord-windows-terminal/blob/main/screenshot.png?raw=true&t=123"/></a></p>
 
 <p align="center">An arctic, north-bluish clean and elegant <a href="https://github.com/microsoft/terminal">Windows Terminal</a> color theme.</p>
 
