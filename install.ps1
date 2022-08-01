@@ -8,6 +8,6 @@ if (!(Test-Path $installPath)) {
 Copy-Item -Path nord.json -Destination $installPath
 
 Write-Output ' '
-Write-Output '❄ Nord Colorscheme Fragment Installed'
+Write-Output '❄️ Nord Colorscheme Fragment Installed'
 Write-Output '  Restart windows terminal and then select or set the theme in your profile'
 Write-Output ' '
